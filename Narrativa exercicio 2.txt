@@ -1,0 +1,23 @@
+lista 1
+
+1)a
+
+1- criar duas variaveis (n1 e n2) para receber os valores inteiros
+2- receba dois números
+3- verifica-se qual dos dois números recebidos e o maior por meio de comparação de x>y
+4- mostrar resultado
+
+1)b
+
+1- criar trê variaveis (n1, n2 e n3) para receber os valores inteiros
+2- receba três números
+3- fazer comparação de qual número e maior
+4- ordenar de forma crescente os números após comparação
+5- mostrar resultado
+
+1)c
+
+1- criar uma variavel para receber um numero inteiro
+2- receba um número
+3- calcular se o número for dividido por dois e o resto for 0 ele e par, se o resto for 1 e ímpar
+4- mostrar resultado
